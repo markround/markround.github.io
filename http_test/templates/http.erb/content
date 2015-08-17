@@ -1,0 +1,6 @@
+The HTTP Value is : <%= http_value %>
+Some globals, now.
+
+ * <%= http_global %> 
+ * <%= another_global %> 
+

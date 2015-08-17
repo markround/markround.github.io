@@ -1,0 +1,1 @@
+{ "http_global" : "This is a value from HTTP" , "another_global" : "Another global value" }
